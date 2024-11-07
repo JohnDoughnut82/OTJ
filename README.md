@@ -1,7 +1,7 @@
 # OTJ Logger
 
 ## What is OTJ Logger?
-The OTJ Logger is a GUI-based Python tool built using Tkinter and Python 3.8. If you're having trouble running it, try switching to a Python 3.8 interpreter or download the .exe file (if you trust me! 😀).
+The OTJ Logger is a GUI-based Python tool built using Tkinter and Python 3.8. If you're having trouble running it, try switching to a Python 3.8 interpreter.
 
 ## Why Use OTJ Logger?
 As a DTS apprentice, I found filling out my OTJ logs manually quite time-consuming, especially when I missed a few weeks. This tool helps streamline the process!
