@@ -3,7 +3,7 @@ from tkinter import messagebox
 from tkcalendar import Calendar
 from tkinter import ttk
 from services import ActivityService, MODULE_KSBS
-from datetime import datetime, timedelta
+from datetime import datetime
 
 class ActivityLoggerApp:
     def __init__(self, root):
